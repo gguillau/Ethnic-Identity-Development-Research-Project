@@ -1,5 +1,5 @@
 # Ethnic-Identity-Development-Research-Project
-The goal of this study is to extend research of ethnic identity development by examining how three components of ethnic identity: ethnic search, achievement and commitment; change across the transition from high school to college. 
+The goal of this study is to extend research of ethnic identity development by examining how three components of ethnic identity: ethnic search, achievement and commitment; change across the transition from high school to college. (Undergraduate research project completed at the University at Buffalo)
 
 ### Research Question:
 How does ethnic identity develop across the transition from high school to college?
